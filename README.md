@@ -1,7 +1,3 @@
-TASK#1
-Print the following text in the output:
-"Coding is fun!"
+OVERVIEW
 
-"Always stay motivated!"
-
-NOTE: There is an empty line you need to print between the two statements.
+This repository is dedicated to teaching Python programming concepts, ranging from beginner to advanced levels. Whether you're just starting out or looking to deepen your understanding of Python, this repository offers a structured approach to learning the language. Each section contains code examples, explanations, and exercises designed to reinforce key concepts.
